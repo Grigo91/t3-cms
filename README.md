@@ -20,7 +20,7 @@ The following packages are **required**:
 - typo3/cms-lowlevel
 - typo3/cms-setup
 - typo3/cms-tstemplate
-- t3/cli-config
+- helhum/typo3-console
 
 ## Installation
 
