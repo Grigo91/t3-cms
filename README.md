@@ -28,6 +28,7 @@ Just add **t3/cms** as requirement to your composer.json. The following
 versions are available:
 
 - `dev-master`
+- `^14.x`
 - `^13.x`
 - `^12.4`
 - `^11.5`
@@ -38,5 +39,5 @@ versions are available:
 
 **Example:**
 ```
-$ composer require t3/cms:"^13"  
+$ composer require t3/cms:"^14"  
 ```

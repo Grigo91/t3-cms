@@ -13,17 +13,17 @@
         "general": "https://github.com/a-r-m-i-n/t3-cms"
     },
     "require": {
-        "typo3/minimal": "^13.0",
+        "typo3/minimal": "^14.0",
         "typo3/cms-cli": "^3.1",
-        "typo3/cms-fluid-styled-content": "^13.0",
-        "typo3/cms-rte-ckeditor": "^13.0",
-        "typo3/cms-belog": "^13.0",
-        "typo3/cms-beuser": "^13.0",
-        "typo3/cms-info": "^13.0",
-        "typo3/cms-install": "^13.0",
-        "typo3/cms-lowlevel": "^13.0",
-        "typo3/cms-setup": "^13.0",
-        "typo3/cms-tstemplate": "^13.0",
-        "helhum/typo3-console": "^8.2"
+        "typo3/cms-fluid-styled-content": "^14.0",
+        "typo3/cms-rte-ckeditor": "^14.0",
+        "typo3/cms-belog": "^14.0",
+        "typo3/cms-beuser": "^14.0",
+        "typo3/cms-info": "^14.0",
+        "typo3/cms-install": "^14.0",
+        "typo3/cms-lowlevel": "^14.0",
+        "typo3/cms-setup": "^14.0",
+        "typo3/cms-tstemplate": "^14.0",
+        "helhum/typo3-console": "^8.3"
     }
 }
